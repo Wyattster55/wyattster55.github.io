@@ -29,7 +29,6 @@ h3{
 }
 h4{
     font-weight:bold;
-    text-align:center;
     box-shadow:3px 3px 3px grey;
     background-color:#42f4d9;
     border: 20px solid #42f4d9;
@@ -42,4 +41,4 @@ li{
 </style>
 </head>
 <body>
-<h4><a href="https://wyattster55.github.io/Computer"> Home </a href><a href="https:wyatster55.github.io/index.html"> The CPU </a href></h4>
+<h4><a href="https://wyattster55.github.io/Computer"> Home </a href> <a href="https:wyatster55.github.io/index.html"> The CPU </a href></h4>
