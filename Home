@@ -32,7 +32,9 @@ h4{
     box-shadow:3px 3px 3px grey;
     background-color:#42f4d9;
     border: 20px solid #42f4d9;
-    font-size:16px;
+    font-size:32px;
+    word-spacing:64px;
+    font-family: "Helvetica", Sans, serif;
 }
 li{
 	font-style:italic;
@@ -41,4 +43,4 @@ li{
 </style>
 </head>
 <body>
-<h4><a href="https://wyattster55.github.io/Computer"> Home </a href> <a href="https:wyatster55.github.io/index.html"> The CPU </a href></h4>
+<h4><button><a href="https://wyattster55.github.io/Home"> Home </a href></button> <button><a href="https:wyatster55.github.io/index.html"> CPU </a href></button></h4>
