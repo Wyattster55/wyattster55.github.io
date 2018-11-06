@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: none;
+}
+a:active{
+    color: purple;
+    text-decoration: none;
+}
+p{
+   text-indent:10%;
+   font-family: "Helvetica", Sans, serif;
+}
+h1{
+    font-weight:bold;
+    text-align:center;
+    font-size:40px;
+}
+h2{
+   text-indent:5%;
+   font-weight:bold;
+   font-size: 32px;
+   box-shadow:4px 4px 4px grey;
+   background-color:#3371ce;
+   border: 30px solid #3371ce;
+   font-family:"Georgia", serif;
+}
+h3{
+   font-weight:bold;
+   text-indent:10%;
+}
+h4{
+    font-weight:bold;
+    box-shadow:3px 3px 3px grey;
+    background-color:#42f4d9;
+    border: 20px solid #42f4d9;
+    font-size:32px;
+    word-spacing:64px;
+    font-family: "Helvetica", Sans, serif;
+}
+li{
+    text-indent:5%;
+}
+</style>
+</head>
+<body>
+<h4><a href="/home.html"> Home </a href>  <a href="/CPU.html"> CPU </a href></h4><h3><strong>The steps to disassemble an HP MXI8380ZPN</h3>
+<li>Find the right tools.(star head,screwdrivers,phillips head.)
+</li>
+<li>Find the buttons on side of the case.
+</li>
+<li>Unscrew the RAM, refer to the image below, using a screwdriver.</li>
+<li>Slide the RAM out of the case.</li>
+<li>Press the button on the CD-ROM Drive as shown below.</li>
+<li>Take the CD-ROM Drive out of the case.</li>
+<li>Unscrew the RAM Fan using a screwdriver.</li>
+<li>Lift the RAM Fan from the case.</li>
+<li>Unscrew the cables using a screwdriver from the back of the case.</li>
+<li>Unplug the cables from their respective parts.</li>
+<li>Take the cables out of the case.</li>
+<li>Use a screwdriver to take the screws out of the CD-ROM Drive’s Holder.</li>
+<li>Take out the CD-ROM Drive’s Holder.</li>
+<li>Slide the other fans out of the case.</li>
+<li>Unscrew the screws of the Motherboard with a Screwdriver.</li>
+<li>Take the Motherboard out of the case.</li>
+<li>Unlatch the Hard Drive.</li>
+<li>Take out the Hard Drive.</li>
+<li> And that's about it, if you want to take apart each individual thing you can but be warned you might not be able to put them back together.</li>
+ </body>
+ </html>
